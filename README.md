@@ -2,6 +2,10 @@
 
 Page Object model is an object design pattern in Selenium, where webpages are represented as classes, and the various elements on the page are defined as variables on the class
 
+## Architecture diagram
+![image](https://github.com/user-attachments/assets/a41c7e2b-d7fd-4512-b962-374ae9350ffa)
+
+
 
 #  The URL Webpage :  https://tutorialsninja.com/demo/
 
