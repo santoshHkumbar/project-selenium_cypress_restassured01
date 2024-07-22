@@ -63,7 +63,42 @@ npx -i init
 npm install cypress --save-dev
 npx cypress open
 ```
+# API end Pointes Recipes - Docs
+```http
+        Get all recipes :'https://dummyjson.com/recipes'
+ 
+       Get a single recipes:'https://dummyjson.com/recipes/1'
+       
+       Search recipes:'https://dummyjson.com/recipes/search?q=Margherita'
+       
+       Limit & Skip recipes:'https://dummyjson.com/recipes?limit=10&skip=10&select=name,image'
+       
+       Sort Recipes:'https://dummyjson.com/recipes?sortBy=name&order=asc'
+       
+       Get all recipes by tag:'https://dummyjson.com/recipes/tags'
+       
+       Get recipes by tag:'https://dummyjson.com/recipes/tag/Pakistani'
+       
+       Get all recipes by meal:'https://dummyjson.com/recipes/meal-type/snack'
 
+```
+# API end Pointes Recipes - Docs
+```http
+  
+        Get all Comments:'https://dummyjson.com/comments'
+        
+        Get a Single Comment:'https://dummyjson.com/comments/1'
+        
+        Limit and Skip Comments:'https://dummyjson.com/comments?limit=10&skip=10&select=body,postId'
+        
+        Get Comment by post id:'https://dummyjson.com/comments/post/6'
+        
+        Add a comment:'https://dummyjson.com/comments/add'
+        
+        Update a comment:'https://dummyjson.com/comments/1'
+        
+        Delete a comment:'https://dummyjson.com/comments/1'
+```
 #  Cypress Project structure:
 ![image](https://github.com/user-attachments/assets/4dbc8d1e-5328-42ee-8ef8-ea0a3b96d38d)
 
