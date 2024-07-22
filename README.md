@@ -3,6 +3,13 @@
 
 DummyJSON can be used with any type of front end project that needs products, carts, users, todos or any dummy data in JSON format.
 
+## Architecture
+The two-tier is based on Client Server architecture. The two-tier architecture is like client server application. The direct communication takes place between client and server. There is no intermediate between client and server. Because of tight coupling a 2 tiered application will run faster.
+
+![image](https://github.com/user-attachments/assets/f95a9ca8-889b-4e8e-92cd-914cb3d20a1c)
+
+
+
  ## 🛠 TOOL Use for This page object module 
 
 ![image](https://github.com/user-attachments/assets/cb7bf5d6-a563-46e7-8df8-aa8a18fce946)  ![image](https://github.com/user-attachments/assets/62f8f916-956a-4039-8c60-393a4bdb7f92) ![image](https://github.com/user-attachments/assets/7a29003e-80df-4cb9-836a-594e4d0834ba)
