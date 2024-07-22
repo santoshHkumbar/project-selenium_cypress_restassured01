@@ -82,7 +82,7 @@ npx cypress open
        Get all recipes by meal:'https://dummyjson.com/recipes/meal-type/snack'
 
 ```
-# API end Pointes Recipes - Docs
+# API end Pointes Comments - Docs
 ```http
   
         Get all Comments:'https://dummyjson.com/comments'
