@@ -1,4 +1,4 @@
-# Selenium Tutorialsninja Page Object module
+# Selenium Tutorialsninja Page Object module.
 
 Page Object model is an object design pattern in Selenium, where webpages are represented as classes, and the various elements on the page are defined as variables on the class
 
