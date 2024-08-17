@@ -28,7 +28,7 @@ https://docs.google.com/document/d/1Q1zv7TpZ_vmV1nHUdtmmmIrBZ893WrgT/edit?usp=dr
 
 
 
-# Selenium Tutorialsninja Project Structure
+# Selenium Tutorialsninja Project Structure.
 
 ![image](https://github.com/user-attachments/assets/f629edae-e7bb-402e-9b6c-9ece11ec014e)
 
